@@ -6,11 +6,7 @@
 
 A clean, interactive browser-based simulation that brings an Operating Systems concept to life.
 
-[🚀 **Launch Live Demo**](https://av-akshayprasanna.github.io/Memory-Leak-Detector/) · [🗂️ **View Source Code**](https://github.com/AV-AkshayPrasanna/Memory-Leak-Detector)
-
-![Project](https://img.shields.io/badge/Project-Operating%20Systems-808000?style=for-the-badge)
-![Built with](https://img.shields.io/badge/Built%20with-HTML%20%7C%20CSS%20%7C%20JavaScript-0b1b2a?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=for-the-badge)
+[🚀 **Launch Live Demo**](https://av-akshayprasanna.github.io/Memory-Leak-Detector/)
 
 </div>
 
@@ -70,14 +66,16 @@ No installation needed—open the website and start experimenting.
 
 ## 💻 Run locally
 
-You can run the project without installing any dependencies.
+Want to try it without cloning the repository? **[Open the live demo here](https://av-akshayprasanna.github.io/Memory-Leak-Detector/).**
+
+To run the source locally, clone the repository:
 
 ```bash
 git clone https://github.com/AV-AkshayPrasanna/Memory-Leak-Detector.git
 cd Memory-Leak-Detector
 ```
 
-Then open `index.html` in a modern web browser.
+Then open `index.html` in a modern web browser. No dependencies or build steps are required.
 
 ## 👥 Project team
 
@@ -109,7 +107,7 @@ Built collaboratively by a team of three as part of our Operating Systems course
 
 ### Thanks for checking out our project! 💚
 
-**[🌐 Try the live demo](https://av-akshayprasanna.github.io/Memory-Leak-Detector/) · [⭐ Explore the repository](https://github.com/AV-AkshayPrasanna/Memory-Leak-Detector)**
+**[🌐 Try the live demo](https://av-akshayprasanna.github.io/Memory-Leak-Detector/)**
 
 *Built for learning, experimenting, and making Operating Systems concepts easier to explore.*
 
